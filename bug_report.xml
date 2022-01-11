@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"? >
-<Submit_Date> 25.05.2021 </Submit_Date>
-<Summary> Articles on start page are not aligned to column width </Summary>
-<Environment> OS - Windows 10 Pro x64bit, ver. 21H1, OS assembly 19043.906 Browser -Mozilla Firefox, ver. 88.0.1 </Environment>
-<Priority> Low </Priority>
-<Assigned_to> N/A </Assigned_to>
-<Severity> Low </Severity>
-<Description> Articles on start page are not aligned to column width </Description> 
-<Steps_to_reproduce> Open link https://www.belta.by View the page </Steps_to_reproduce>
-<Expected_result> Articles are aligned to column width </Expected_result>
-<Actual_result> Articles on start page are not aligned to column width</Actual_result> 
+<?xml version="1.0" encoding="UTF-8"?>	
+	<bugreport>
+	<Submit_Date> 25.05.2021 </Submit_Date>
+	<Summary> Articles on start page are not aligned to column width </Summary>
+	<Environment> OS - Windows 10 Pro x64bit, ver. 21H1, OS assembly 19043.906 Browser -Mozilla Firefox, ver. 88.0.1 </Environment>
+	<Priority> Low </Priority>
+	<Assigned_to> N/A </Assigned_to>
+	<Severity> Low </Severity>
+	<Description> Articles on start page are not aligned to column width </Description> 
+  	<Steps_to_reproduce> Open link https://www.belta.by View the page </Steps_to_reproduce>
+	<Expected_result> Articles are aligned to column width </Expected_result>
+	<Actual_result> Articles on start page are not aligned to column width</Actual_result> 
+	</bugreport>
