@@ -1,5 +1,8 @@
-<Любимый_фильм>Железный_человек</Любимый_фильм>
-<Любимый_сериал>Теория_большого_взрыва</Любимый_сериал>
-<Любимая_еда>Драники</Любимая_еда>
-<Любимое_время_года>Лето</Любимое_время_года>
-<Страна_которую_хоткли_бы_посетить>Америка</Страна_которую_хотели_бы_посетить>
+<?xml version="1.0" encoding="UTF-8"?>
+	<preferences>
+    <Favorite_movie>Iron_men</Favorite_movie>
+	<Favorite_series>The_big_bang_theory</Favorite_series>
+	<Favorite_meal>Potato_cakes</Favorite_meal>
+	<Favorite_season>Summer</Favorite_season>
+	<Country_you_would_like_to_visit>USA</Country_you_would_lik_ to_visit>
+	</preferences>
